@@ -1,0 +1,5 @@
+C:\Users\sfa\Documents\Visual Studio 2012\Projects\MatrixMultiplication\ServiceLayer\bin\ServiceLayer.dll
+C:\Users\sfa\Documents\Visual Studio 2012\Projects\MatrixMultiplication\ServiceLayer\bin\ServiceLayer.pdb
+C:\Users\sfa\Documents\Visual Studio 2012\Projects\MatrixMultiplication\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\sfa\Documents\Visual Studio 2012\Projects\MatrixMultiplication\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\sfa\Documents\Visual Studio 2012\Projects\MatrixMultiplication\ServiceLayer\obj\Debug\ServiceLayer.pdb
